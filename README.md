@@ -9,3 +9,6 @@
 2. For Loops with conditionals
 3. Objects
 4. More Functions https://codepen.io/WolfsVeteran/pen/MWpNmNW?editors=1112
+
+
+changing readme for demo
